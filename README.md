@@ -1,8 +1,7 @@
 ## Hi there! Welcome to my profile 👋
 
 
-- 🔭 Today I participate in a project in which I am part of the front end team.
-- 🌱 I’m currently learning front-end technologies.
+- 🌱 I’m currently learning Data Science technologies.
 - My hobbies are playing soccer⚽ and working out🏋️‍♂️
 
 <div align="center">
