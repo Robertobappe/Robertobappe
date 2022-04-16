@@ -1,7 +1,7 @@
 ## Hi there! Welcome to my profile 👋
 
 
-- 🌱 I’m currently learning Data Science technologies.
+- I’m currently learning Data Science and development technologies.
 - My hobbies are playing soccer⚽ and working out🏋️‍♂️
 
 <div align="center">
