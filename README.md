@@ -1,8 +1,8 @@
 ## Hi there! Welcome to my profile 👋
 
 
-- I’m currently learning Data Science and development technologies.
-- My hobbies are playing soccer⚽ and working out🏋️‍♂️
+- I currently work as a Software Engineer at Itaú, the largest bank in Latin America. I hold the position of Junior Software Engineer.
+- My hobbies include playing soccer ⚽ and working out 🏋️‍♂️
 
 <div align="center">
   
