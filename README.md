@@ -7,6 +7,7 @@
    
  ##
 <div align="center">
+  <h3>Tech Stack</h3>
   <div>
     <img align="center" alt="Beto-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
     <img align="center" alt="Beto-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -20,6 +21,7 @@
 
   <div style="height: 30px;"></div>
 
+  <h3>Contact</h3>
   <div>
     <a href="mailto:robertobs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/r-b-silva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
