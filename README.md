@@ -2,14 +2,7 @@
 
 
 - I currently work as a Software Engineer at Itaú, the largest bank in Latin America. I hold the position of Junior Software Engineer.
-- My hobbies include playing soccer ⚽ and working out 🏋️‍♂️and following motorsports, especially Formula 1 🏎️
-
-<div align="center">
-  
-  <a href="https://github.com/Robertobappe">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Robertobappe&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-
-</div>
+- My hobbies include playing soccer ⚽,working out 🏋️‍♂️and following motorsports, especially Formula 1 🏎️
 
    
  ##
