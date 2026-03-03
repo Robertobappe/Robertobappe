@@ -19,7 +19,7 @@
    </div>
 </div>    
 
-<div style="height: 100px;"></div>
+<div style="height: 100000px;"></div>
   
   <div align="center">
     <a href = "mailto:robertobs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
