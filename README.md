@@ -17,7 +17,7 @@
   <img align="center" alt="Beto-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">
   </div>
     
-  ![Linguagens mais usadas de Roberto Silva](https://github-readme-stats.vercel.app/api/top-langs/?username=Robertobappe&theme=dark&layout=compact&hide_border=true&custom_title=Linguagens%20mais%20usadas&langs_count=6) ![Status do Github de Roberto Silva](https://github-readme-stats.vercel.app/api?username=Robertobappe&theme=dark&show_icons=true&layout=compact&hide_title=true&hide_rank=true&include_all_commits=true&hide_border=true&count_private=true&disable_animations=true)
+
 
   
   <div align="center">
