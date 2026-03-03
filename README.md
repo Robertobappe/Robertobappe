@@ -18,7 +18,7 @@
     <img align="center" alt="Beto-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">
   </div>
 
-  <div style="height: 50px;"></div>
+  <div style="height: 200px;"></div>
 
   <div>
     <a href="mailto:robertobs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
