@@ -6,9 +6,8 @@
 
    
 <div align="center">
-  <h3>Tech Stack</h3>
-  <div style="margin-bottom: -20px;"> <!-- Reduzido o espaço -->
-  <div>
+  <p style="margin: 0; padding: 0;"><b>Tech Stack</b></p>
+  <div align="center">
     <img align="center" alt="Beto-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
     <img align="center" alt="Beto-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Beto-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -19,12 +18,12 @@
     <img align="center" alt="Beto-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">
   </div>
 
-  <div style="height: 30px;"></div>
+  <div style="height: 25px;"></div>
 
-  <h3>Contact</h3>
-  <div>
+  <p style="margin: 0; padding: 0;"><b>Contact</b></p>
+  <div align="center">
     <a href="mailto:robertobs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-    <a href="https://www.linkedin.com/in/r-b-silva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+    <a href="https://www.linkedin.com/in/r-b-silva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="https://instagram.com/rroberto_bs" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   </div>
 </div>
