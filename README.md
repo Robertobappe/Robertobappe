@@ -7,7 +7,7 @@
    
 <div align="center">
   <h3>Tech Stack</h3>
-  <div style="margin-bottom: 2px;"> <!-- Reduzido o espaço -->
+  <div style="margin-bottom: -20px;"> <!-- Reduzido o espaço -->
   <div>
     <img align="center" alt="Beto-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
     <img align="center" alt="Beto-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
