@@ -1,8 +1,8 @@
 ## Welcome to my profile 👋
 
 - B.S. in Computational Physics from the University of São Paulo 🎓
-- I currently work as a Software Engineer at Itaú, the largest bank in Latin America. I hold the position of Software Engineer I. 👨‍💻
-- My hobbies include playing soccer ⚽,working out 🏋️‍♂️and following motorsports, especially Formula 1 🏎️
+- I currently work as a Software Engineer at Itaú, the largest bank in Latin America. I hold the position of Software Engineer I 👨‍💻
+- Music lover and acoustic guitar player in my free time. I'm passionate about staying healthy and traveling. I love understanding how things work, even if they aren't related to my background or technology so feel free to bring up random topics!
    
 <div align="center">
   <b>Tech Stack</b>
