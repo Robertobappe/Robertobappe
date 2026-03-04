@@ -11,7 +11,7 @@
   <img alt="Beto-Js" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="vertical-align: middle;">
   <img alt="Beto-Python" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="vertical-align: middle;">
   <img alt="Beto-Salesforce" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/salesforce/salesforce-original.svg" style="vertical-align: middle;">
-  <img alt="Beto-C" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="vertical-align: middle;">
+  <img alt="Beto-C" height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="vertical-align: middle;">
   <img alt="Beto-HTML" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="vertical-align: middle;">
   <img alt="Beto-CSS" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="vertical-align: middle;">
   <img alt="Beto-SQL" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" style="vertical-align: middle;">
