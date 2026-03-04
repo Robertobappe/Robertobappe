@@ -1,4 +1,4 @@
-## Welcome to my profile 👋
+## Physicist & Tech Guy 👋
 
 - B.S. in Computational Physics from the University of São Paulo 🎓
 - I currently work as a Software Engineer at Itaú, the largest bank in Latin America. I hold the position of Software Engineer I 👨‍💻
