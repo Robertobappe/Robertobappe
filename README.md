@@ -1,6 +1,6 @@
 ## Welcome to my profile 👋
 
-
+- B.S. in Computational Physics from the University of São Paulo
 - I currently work as a Software Engineer at Itaú, the largest bank in Latin America. I hold the position of Junior Software Engineer.
 - My hobbies include playing soccer ⚽,working out 🏋️‍♂️and following motorsports, especially Formula 1 🏎️
    
