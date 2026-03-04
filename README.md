@@ -17,7 +17,7 @@
   <img alt="Beto-CSS" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="vertical-align: middle;">
   <img alt="Beto-SQL" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" style="vertical-align: middle;">
 
-  <br><br>
+
 
   <b>Contact</b>
   <br>
