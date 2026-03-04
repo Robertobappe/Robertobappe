@@ -31,4 +31,4 @@
 
 
 
-como da pra ver tem um espaço grande entre Tech Stack e as tecnologias. O mesmo para contato. ajuste
+
