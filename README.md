@@ -3,7 +3,6 @@
 
 - I currently work as a Software Engineer at Itaú, the largest bank in Latin America. I hold the position of Junior Software Engineer.
 - My hobbies include playing soccer ⚽,working out 🏋️‍♂️and following motorsports, especially Formula 1 🏎️
-
    
 <div align="center">
   <b>Tech Stack</b>
